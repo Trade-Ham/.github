@@ -99,3 +99,4 @@
 ## 시청 세션 영상
 1주차: [[NHN FORWARD 2021] Redis 야무지게 사용하기](https://www.youtube.com/watch?v=92NizoBL4uA)
 
+2주차: [[if(kakao)dev2022] Batch Performance 극한으로 끌어올리기: 1억 건 데이터 처리를 위한 노력](https://www.youtube.com/watch?v=2IIwQDIi3ys&list=PLyraqdoIVJhmCIlhXAYjZwqwxT5Ih1kBG&index=7)
