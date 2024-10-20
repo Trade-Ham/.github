@@ -36,6 +36,7 @@
     - 스프링 배치 학습
     - 구매자가 구매를 하면 판매자에게 알림이 뜬다(상단 바에 알림 페이지가 있고 거기서 알림들 보여줌)
     <img width="48" alt="스크린샷 2024-10-20 오후 3 46 20" src="https://github.com/user-attachments/assets/161ab82c-d6e8-486d-97a1-3e0d6a6d99c6">
+    
     - 메일로 알림을 보내자.
       - Spring Boot Starter Mail 라이브러리 고려
 
