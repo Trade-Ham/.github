@@ -109,3 +109,15 @@
 1주차: [[NHN FORWARD 2021] Redis 야무지게 사용하기](https://www.youtube.com/watch?v=92NizoBL4uA)
 
 2주차: [[if(kakao)dev2022] Batch Performance 극한으로 끌어올리기: 1억 건 데이터 처리를 위한 노력](https://www.youtube.com/watch?v=2IIwQDIi3ys&list=PLyraqdoIVJhmCIlhXAYjZwqwxT5Ih1kBG&index=7)
+
+
+
+------------------- 포트폴리오 내용 -------------------
+검색할 때
+Pak ah e 일때 “ak a”까지 검색하게 하였다.
+쿼리문 ~~~~ 를 사용했다.
+또한 제목에는 없는데 본문 내용만 있을 경우를 대비하여 본문내용도 같이 분석한다.
+그런데 성능을 측정해보니 ~~~가 나왔다.
+그래서 검색 쿼리 최적화를 통해서 병목지점을 개선하여
+jmeter로 성능테스트를 진행하여 00% 성능을 개선하였습니다.
+
